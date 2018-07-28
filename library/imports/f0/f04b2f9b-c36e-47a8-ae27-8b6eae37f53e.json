@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bird_boom_1",
+    "texture": "ae1d67b7-96a4-4c70-8b69-28ecda87ffb2",
+    "atlas": "",
+    "rect": [
+      14,
+      10,
+      64,
+      81
+    ],
+    "offset": [
+      -4,
+      -0.5
+    ],
+    "originalSize": [
+      100,
+      100
+    ]
+  }
+}

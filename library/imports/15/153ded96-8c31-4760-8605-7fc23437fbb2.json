@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fragment_wood_0",
+    "texture": "abbf732e-28d6-4c7b-99e0-690e03f2881c",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      37,
+      9
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      39,
+      11
+    ]
+  }
+}

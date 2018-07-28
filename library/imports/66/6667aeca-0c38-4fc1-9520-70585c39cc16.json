@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bird_swell_1",
+    "texture": "14441f2e-ad9b-46f6-8e73-1de25315d07b",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      71,
+      63
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      72,
+      65
+    ]
+  }
+}

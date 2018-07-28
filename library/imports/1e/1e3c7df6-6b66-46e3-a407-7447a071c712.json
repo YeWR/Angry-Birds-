@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wood_circle_0",
+    "texture": "f54fca8d-b9f8-4807-becb-354f26305a44",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      78,
+      75
+    ],
+    "offset": [
+      1,
+      -0.5
+    ],
+    "originalSize": [
+      80,
+      80
+    ]
+  }
+}

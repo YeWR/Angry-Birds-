@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c79e663a-c9ec-4fec-a769-7e7115d2836b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fragment_stone_0": {
+      "ver": "1.0.3",
+      "uuid": "5413ba63-3e2f-44cd-a4e0-0a4320758549",
+      "rawTextureUuid": "c79e663a-c9ec-4fec-a769-7e7115d2836b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 3,
+      "width": 33,
+      "height": 28,
+      "rawWidth": 35,
+      "rawHeight": 35,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

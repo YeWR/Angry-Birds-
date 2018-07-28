@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "animation_boom_6",
+    "texture": "10c93a89-4ff7-473a-b6b9-de4f27206fc3",
+    "atlas": "",
+    "rect": [
+      12,
+      12,
+      132,
+      132
+    ],
+    "offset": [
+      -1.5,
+      0
+    ],
+    "originalSize": [
+      159,
+      156
+    ]
+  }
+}

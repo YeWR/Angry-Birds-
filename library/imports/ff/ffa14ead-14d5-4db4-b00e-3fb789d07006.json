@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shot_left",
+    "texture": "19c88ee1-3755-45f5-abd9-3774bd3929e5",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      43,
+      124
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      44,
+      125
+    ]
+  }
+}

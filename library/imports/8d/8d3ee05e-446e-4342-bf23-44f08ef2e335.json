@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "stone_triangle_1",
+    "texture": "d13535e4-f21b-423c-9f81-2eccd6579a6b",
+    "atlas": "",
+    "rect": [
+      4,
+      2,
+      82,
+      82
+    ],
+    "offset": [
+      0,
+      2
+    ],
+    "originalSize": [
+      90,
+      90
+    ]
+  }
+}

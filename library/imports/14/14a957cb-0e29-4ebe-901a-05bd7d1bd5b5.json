@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fragment_ice_0",
+    "texture": "ff2bbb78-d819-4fec-ad14-f402accc9d7f",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      29,
+      34
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      30,
+      37
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fragment_stone_2",
+    "texture": "a0c1df60-efed-4928-b6e9-0debba0210fe",
+    "atlas": "",
+    "rect": [
+      7,
+      7,
+      13,
+      12
+    ],
+    "offset": [
+      1,
+      -0.5
+    ],
+    "originalSize": [
+      25,
+      25
+    ]
+  }
+}

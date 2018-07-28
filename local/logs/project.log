@@ -1,0 +1,213 @@
+2018-07-24T11:17:56.585Z - normal: Load ~/.CocosCreator/settings.json
+2018-07-24T11:17:56.595Z - normal: checking language setting...
+2018-07-24T11:17:56.595Z - normal: Language: zh
+2018-07-24T11:17:58.795Z - success: protocol editor-framework registered
+2018-07-24T11:17:58.795Z - success: protocol app registered
+2018-07-24T11:17:58.795Z - success: protocol theme registered
+2018-07-24T11:17:58.795Z - success: protocol packages registered
+2018-07-24T11:17:58.795Z - success: protocol unpack registerred
+2018-07-24T11:17:58.795Z - success: protocol disable-commonjs registerred
+2018-07-24T11:17:58.945Z - normal: connected!
+2018-07-24T11:17:58.945Z - normal: Check project C:\Users\Quicker\Documents\THU\curriculum\major\Web\homework\AngryBirds
+2018-07-24T11:17:58.955Z - normal: Initializing Cocos2d
+2018-07-24T11:17:59.225Z - normal: Initializing Asset Database
+2018-07-24T11:17:59.275Z - success: protocol uuid registerred
+2018-07-24T11:17:59.275Z - success: protocol db registerred
+2018-07-24T11:17:59.275Z - success: protocol thumbnail registerred
+2018-07-24T11:17:59.275Z - normal: Loading editor/builtin packages
+2018-07-24T11:17:59.295Z - success: anysdk loaded
+2018-07-24T11:17:59.465Z - success: assets loaded
+2018-07-24T11:17:59.465Z - success: builder loaded
+2018-07-24T11:17:59.475Z - success: cocos-analytics loaded
+2018-07-24T11:17:59.475Z - success: console loaded
+2018-07-24T11:17:59.525Z - success: fb-instant-games loaded
+2018-07-24T11:17:59.525Z - success: hierarchy loaded
+2018-07-24T11:17:59.535Z - success: inspector loaded
+2018-07-24T11:17:59.535Z - success: keystore loaded
+2018-07-24T11:17:59.535Z - success: node-library loaded
+2018-07-24T11:17:59.545Z - success: package-asset loaded
+2018-07-24T11:17:59.545Z - success: preferences loaded
+2018-07-24T11:17:59.545Z - success: project-exporter loaded
+2018-07-24T11:17:59.565Z - success: project-importer loaded
+2018-07-24T11:17:59.565Z - success: project-settings loaded
+2018-07-24T11:17:59.575Z - success: ui-kit loaded
+2018-07-24T11:17:59.575Z - success: ui-grid loaded
+2018-07-24T11:17:59.575Z - success: scene loaded
+2018-07-24T11:17:59.585Z - success: sprite-editor loaded
+2018-07-24T11:17:59.585Z - success: store loaded
+2018-07-24T11:17:59.595Z - success: timeline loaded
+2018-07-24T11:17:59.595Z - normal: Loading builtin packages
+2018-07-24T11:17:59.595Z - success: asset-db-debugger loaded
+2018-07-24T11:17:59.595Z - success: code-editor loaded
+2018-07-24T11:17:59.595Z - success: color-picker loaded
+2018-07-24T11:17:59.605Z - success: package-manager loaded
+2018-07-24T11:17:59.605Z - success: qqplay-adapter loaded
+2018-07-24T11:17:59.615Z - success: sdkbox loaded
+2018-07-24T11:17:59.615Z - success: tester loaded
+2018-07-24T11:17:59.615Z - success: ui-kit-preview-extra loaded
+2018-07-24T11:17:59.615Z - success: ui-kit-preview loaded
+2018-07-24T11:17:59.625Z - success: ui-tree loaded
+2018-07-24T11:17:59.625Z - success: weapp-adapter loaded
+2018-07-24T11:18:01.232Z - normal: Initializing project C:\Users\Quicker\Documents\THU\curriculum\major\Web\homework\AngryBirds
+2018-07-24T11:18:01.242Z - normal: Loading packages
+2018-07-24T11:18:01.252Z - normal: Watching packages
+2018-07-24T11:18:01.722Z - normal: Run Application
+2018-07-24T11:18:02.694Z - success: preview server running at http://localhost:7456
+2018-07-24T11:18:10.515Z - normal: 1.9.3
+2018-07-24T11:18:28.637Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "C:\\Users\\Quicker\\Documents\\THU\\curriculum\\major\\Web\\homework\\AngryBirds\\build",
+  "debug": false,
+  "dest": "C:\\Users\\Quicker\\Documents\\THU\\curriculum\\major\\Web\\homework\\AngryBirds\\build\\wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "Widget",
+    "ProgressBar",
+    "ScrollBar",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "EditorBox",
+    "WebView",
+    "MotionStreak",
+    "DragonBones",
+    "StudioComponent",
+    "RenderTexture",
+    "Chipmunk",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": true,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.AngryBirds",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "ffaf9246-b073-4b13-b231-b350c6a1de7d",
+    "fc015fdf-90f0-4e8e-a915-1cc2f6cdfabc",
+    "4ace774a-e9cc-490b-9f21-22639e70ad9a",
+    "b1886ab2-bfc8-48f6-af43-e070201bf02b",
+    "2425e857-380d-459c-9ceb-9f8a79d642e5",
+    "9c567e55-e8e3-4a67-ac32-536f6f5aae37",
+    "c62498c9-fcf2-4ca5-b55b-028acc09fd0e",
+    "ef87a444-73ac-4ef9-ac3e-7d7e5339e72b",
+    "a2c00f62-a83a-40c4-94d5-08dc172efd47",
+    "b7924148-6736-4b33-9613-e55c49f74af6",
+    "0808b386-8bc0-44e7-afae-70776f4d6fa9",
+    "0dbcc336-e38f-4179-9f0b-40f1ed4a9c55",
+    "b570fd4a-c597-43e3-82e8-a9d804fa2584"
+  ],
+  "sourceMaps": false,
+  "startScene": "ffaf9246-b073-4b13-b231-b350c6a1de7d",
+  "template": "link",
+  "title": "AngryBirds",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxf98b7225f10c86db",
+    "isSubdomain": false,
+    "orientation": "landscape",
+    "subContext": ""
+  },
+  "xxteaKey": "ca3246e5-4d2d-4e",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\Quicker\\Documents\\THU\\curriculum\\major\\Web\\homework\\AngryBirds",
+  "projectName": "AngryBirds",
+  "debugBuildWorker": false
+}
+2018-07-24T11:18:28.641Z - normal: Building C:\Users\Quicker\Documents\THU\curriculum\major\Web\homework\AngryBirds
+2018-07-24T11:18:28.641Z - normal: Destination C:\Users\Quicker\Documents\THU\curriculum\major\Web\homework\AngryBirds\build\wechatgame
+2018-07-24T11:18:29.006Z - normal: Delete C:\Users\Quicker\Documents\THU\curriculum\major\Web\homework\AngryBirds\build\wechatgame\**\*
+2018-07-24T11:18:33.363Z - normal: Compiled project javascript file successfully
+2018-07-24T11:18:33.364Z - normal: Start building assets
+2018-07-24T11:18:33.364Z - normal: Start spawn build-worker
+2018-07-24T11:18:34.319Z - normal: Finish spawn build-worker
+2018-07-24T11:18:34.319Z - normal: Start init build-worker
+2018-07-24T11:18:37.302Z - normal: 1.9.3
+2018-07-24T11:18:37.417Z - normal: Finish init build-worker
+2018-07-24T11:18:37.417Z - normal: Start build-assets in worker
+2018-07-24T11:18:39.242Z - normal: Finish build-assets in worker
+2018-07-24T11:18:39.255Z - normal: Finish building assets
+2018-07-24T11:18:39.318Z - normal: Start building raw assets
+2018-07-24T11:18:39.320Z - normal: Start building plugin scripts
+2018-07-24T11:18:39.596Z - normal: Finish building raw assets
+2018-07-24T11:18:39.602Z - normal: Generating main.js from C:\CocosCreator\resources\static\build-templates\shares\main.js
+2018-07-24T11:18:42.316Z - normal: Built to "C:\Users\Quicker\Documents\THU\curriculum\major\Web\homework\AngryBirds\build\wechatgame" successfully
+2018-07-24T11:18:46.247Z - warn: 找不到微信开发程序版本信息路径 [C:\Program Files (x86)\Tencent\微信web开发者工具\package.nw\package.json]。
+2018-07-24T11:18:46.248Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
+2018-07-24T11:18:47.168Z - normal: Initializing...
+
+2018-07-24T11:18:47.179Z - normal: idePortFile: C:\Users\Quicker\AppData\Local\微信web开发者工具\User Data\Default\.ide
+
+2018-07-24T11:18:48.207Z - normal: starting ide...
+
+2018-07-24T11:18:52.523Z - normal: IDE server has started, listening on http://127.0.0.1:30345
+
+2018-07-24T11:18:52.527Z - normal: initialization finished
+
+2018-07-24T11:18:52.943Z - normal: open IDE success
+
+2018-07-24T12:06:52.345Z - warn: 找不到微信开发程序版本信息路径 [C:\Program Files (x86)\Tencent\微信web开发者工具\package.nw\package.json]。
+2018-07-24T12:06:52.347Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
+2018-07-24T12:06:53.142Z - normal: Initializing...
+
+2018-07-24T12:06:53.156Z - normal: idePortFile: C:\Users\Quicker\AppData\Local\微信web开发者工具\User Data\Default\.ide
+
+2018-07-24T12:06:54.183Z - normal: starting ide...
+
+2018-07-24T12:06:58.460Z - normal: IDE server has started, listening on http://127.0.0.1:57171
+
+2018-07-24T12:06:58.466Z - normal: initialization finished
+
+2018-07-24T12:06:58.882Z - normal: open IDE success
+
+2018-07-24T14:49:36.208Z - warn: 找不到微信开发程序版本信息路径 [C:\Program Files (x86)\Tencent\微信web开发者工具\package.nw\package.json]。
+2018-07-24T14:49:36.210Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
+2018-07-24T14:49:36.970Z - normal: Initializing...
+
+2018-07-24T14:49:36.979Z - normal: idePortFile: C:\Users\Quicker\AppData\Local\微信web开发者工具\User Data\Default\.ide
+
+2018-07-24T14:49:38.007Z - normal: starting ide...
+
+2018-07-24T14:49:43.340Z - normal: IDE server has started, listening on http://127.0.0.1:25211
+
+2018-07-24T14:49:43.345Z - normal: initialization finished
+
+2018-07-24T14:49:43.997Z - normal: open IDE success
+
+2018-07-24T15:00:50.840Z - info: shutdown preview server

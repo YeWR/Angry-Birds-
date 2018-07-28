@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bird_fly_1",
+    "texture": "61f7b488-aad9-42c8-9f4c-fcf70044db41",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      58,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      58,
+      54
+    ]
+  }
+}

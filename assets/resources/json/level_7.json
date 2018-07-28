@@ -1,0 +1,4 @@
+{
+    "level" : 1,
+    "birds" : ["birdBoom", "birdSwell", "birdBoom", "birdFly"]
+}
