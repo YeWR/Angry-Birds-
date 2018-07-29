@@ -152,7 +152,7 @@ export function changeRectangle(position, size){// 将矩形改成四点坐标
     return rec;
 }
 
-export function getAllToolsPosition(bg){
+export function getAllToolsPosition(bg){// 最终未使用
     let branches = getAllBranches(bg);
     let ans = {
         'wood' : 
